@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Live demo]()
+- [Live demo](https://bazinygero.github.io/react-advice-generator-app/)
 
 ## About
 This is a solution to the Advice generator app challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).
