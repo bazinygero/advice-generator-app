@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-advice-genterator-app/static/css/main.f2c49e9f.css",
-    "main.js": "/react-advice-genterator-app/static/js/main.6963033b.js",
-    "static/js/787.fe2905bd.chunk.js": "/react-advice-genterator-app/static/js/787.fe2905bd.chunk.js",
-    "index.html": "/react-advice-genterator-app/index.html",
-    "static/media/icon-dice.svg": "/react-advice-genterator-app/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
-    "static/media/pattern-divider-mobile.svg": "/react-advice-genterator-app/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
-    "main.f2c49e9f.css.map": "/react-advice-genterator-app/static/css/main.f2c49e9f.css.map",
-    "main.6963033b.js.map": "/react-advice-genterator-app/static/js/main.6963033b.js.map",
-    "787.fe2905bd.chunk.js.map": "/react-advice-genterator-app/static/js/787.fe2905bd.chunk.js.map"
+    "main.css": "/react-advice-generator-app/static/css/main.f2c49e9f.css",
+    "main.js": "/react-advice-generator-app/static/js/main.04d538a9.js",
+    "static/js/787.fe2905bd.chunk.js": "/react-advice-generator-app/static/js/787.fe2905bd.chunk.js",
+    "index.html": "/react-advice-generator-app/index.html",
+    "static/media/icon-dice.svg": "/react-advice-generator-app/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "static/media/pattern-divider-mobile.svg": "/react-advice-generator-app/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
+    "main.f2c49e9f.css.map": "/react-advice-generator-app/static/css/main.f2c49e9f.css.map",
+    "main.04d538a9.js.map": "/react-advice-generator-app/static/js/main.04d538a9.js.map",
+    "787.fe2905bd.chunk.js.map": "/react-advice-generator-app/static/js/787.fe2905bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2c49e9f.css",
-    "static/js/main.6963033b.js"
+    "static/js/main.04d538a9.js"
   ]
 }
